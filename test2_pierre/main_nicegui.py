@@ -9,7 +9,7 @@ from nicegui import ui
 import math
 from test2_pierre.my_module import typed_function
 
-fhtrrftf
+fhtrrftffyfjf
 def run(reload: bool = False):
     """This is the main function that gets run"""
     ui.label(f"Hello world {typed_function(np.zeros(10), '')}")
